@@ -1,0 +1,2 @@
+id,name,code,company_id/id,user_type_id/id,tag_ids/id,reconcile
+purchase_discount.account_purchase_discount,Purchase Discount,555555,base.main_company,account.data_account_type_revenue,,FALSE
